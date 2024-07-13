@@ -40,7 +40,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2402.18211.pdf">Catastrophic Overfitting: A Potential Blessing in Disguise</a></div>
     <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Yuqiu Kong, & Baocai Yin</div>
-    <div class="periodical"><em>European Conference on Computer Vision</strong>, 2023.</em></div>
+    <div class="periodical"><em>European Conference on Computer Vision, 2024.</em></div>
     <div class="links">
     <a href="https://arxiv.org/pdf/2402.18211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2402.18211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
