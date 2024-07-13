@@ -106,7 +106,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/APIN2023.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/APID2023.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
