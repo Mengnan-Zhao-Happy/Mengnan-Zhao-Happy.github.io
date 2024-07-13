@@ -14,7 +14,7 @@ Mengnan, Zhao received his [Ms. degree](https://kns.cnki.net/kcms2/article/abstr
 ## Research Interests
 - **Privacy:** machine unlearn,
 - **Adversarial:** adversarial attack and adversarial trianing,
-- **Fairness:** fairness ML, semi-supervised learning
+- **Fairness:** prediction debiasing
 - **Machine Learning:** 3D scene understanding
 - **Knowledge Graph:** Temporal knowledge graph reasoning
 
