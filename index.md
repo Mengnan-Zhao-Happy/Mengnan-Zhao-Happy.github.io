@@ -37,11 +37,6 @@ __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
-
-
-
-
 
 ## Patents.
 - A Reasonable Adv Analysis Method for Source Camera Recognition [\[link\]](https://www.xjishu.com/zhuanli/55/202011283607.html).  
