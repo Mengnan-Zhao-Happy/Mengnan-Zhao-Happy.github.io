@@ -18,6 +18,22 @@ Mengnan, Zhao received his [Ms. degree](https://kns.cnki.net/kcms2/article/abstr
 - **Machine Learning:** 3D scene understanding
 - **Knowledge Graph:** Temporal knowledge graph reasoning
 
+## 🎉 News
+======
+__TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR  
+- \[2024-07\] One paper on Fast Adversarial Training is accepted by ECCV.
+- \[2024-01\] One paper on Scene Graph Generation Attack is accepted by IEEE TIFS.
+- \[2023-12\] One paper on Unbised Scene Graph Generation is accepted by PR.
+- \[2023-10\] One paper on Temporal Knowledge Graph Reasoning is accepted by Applied Intelligence.
+- \[2023-10\] One paper on Fast Adversarial Training is accepted by ICCV.
+- \[2023-09\] One paper on Image Captioning Attack is accepted by Neurocomputing.
+- \[2022-07\] One paper on Adversarial Attack is accepted by ICAIS.
+- \[2022-06\] One paper on Adversarial Attack is accepted by IEEE TIFS.
+- \[2020-12\] One paper on Adversarial Attack is accepted by IEEE TCSVT.
+- \[2020-08\] One paper on Adversarial Attack is accepted by IEEE TCSVT.
+- \[2019-12\] One paper on Source Camera Identification is accepted by IEEE Access (Direct Accept. Before Warning).
+
+
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/projects.md %}
