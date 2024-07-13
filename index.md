@@ -72,9 +72,6 @@ Reviewer for:
 - International Journal of Machine Learning and Cybernetics, SCI3 [\[link\]](https://www.letpub.com.cn/index.php?journalid=10028&page=journalapp&view=detail).
 
 
-{% include_relative _includes/services.md %}
-
-
 ## Internships.
 - Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
 
