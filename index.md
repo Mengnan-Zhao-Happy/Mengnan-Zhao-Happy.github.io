@@ -18,7 +18,7 @@ Mengnan, Zhao received his [Ms. degree](https://kns.cnki.net/kcms2/article/abstr
 - **Machine Learning:** 3D scene understanding
 - **Knowledge Graph:** Temporal knowledge graph reasoning
 
-## News 🎉 
+## News (1st author) 🎉 
 __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR  
 - \[2024-07\] One paper on Fast Adversarial Training is accepted by ECCV.
 - \[2024-01\] One paper on Scene Graph Generation Attack is accepted by IEEE TIFS.
