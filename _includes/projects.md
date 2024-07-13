@@ -38,9 +38,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">Catastrophic Overfitting: A Potential Blessing in Disguise</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2402.18211.pdf">Catastrophic Overfitting: A Potential Blessing in Disguise</a></div>
     <div class="author"><strong>__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin</strong></div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2023.</em></div>
+    <div class="periodical"><em>European Conference on Computer Vision</strong>, 2023.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
