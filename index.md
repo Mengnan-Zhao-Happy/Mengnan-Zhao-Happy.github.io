@@ -18,11 +18,6 @@ Mengnan, Zhao received his [Ms. degree](https://kns.cnki.net/kcms2/article/abstr
 - **Machine Learning:** 3D scene understanding
 - **Knowledge Graph:** Temporal knowledge graph reasoning
 
-
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
-
-
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/projects.md %}
