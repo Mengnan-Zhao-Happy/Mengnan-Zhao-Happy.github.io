@@ -78,55 +78,246 @@
 </div>
 </li>
 
-
-
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/mediation.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/PPR2024.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">On the Inference of Confounders for Mediation Analysis</a></div>
-    <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2024.</em></div>
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323009184">Class Correlation Correction for Unbised Scene Graph Generation</a></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="periodical"><em>Pattern Recognition, 2023.</em></div>
     <div class="links">
-    <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323009184" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323009184" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/class-correlation-correction" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323009184" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323009184" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
 </div>
 </li>
-  
 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
+    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
     <div class="links">
-      <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
+    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
 </div>
 </li>
-  
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
 <br>
 
 </ol>
