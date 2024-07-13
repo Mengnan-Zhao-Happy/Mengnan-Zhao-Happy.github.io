@@ -44,27 +44,50 @@ __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
 
 
 
+## 📫 Patents.
+- A Reasonable Adv Analysis Method for Source Camera Recognition [\[link\]](https://www.xjishu.com/zhuanli/55/202011283607.html).  
+CN112381149A  
+__Mengnan Zhao__, Bo Wang
+- An Source Identification Method Based on Adaptive Filtering and Coupled Encoding [\[link\]](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p1q0050yk1c0cg06m4x0jp0p6065601&site=xueshu_se).  
+ZL201910871685.X; CN110659679  
+__Mengnan Zhao__, Bo Wang  
+- A Point Attack Method Based on Weighted Spectrum Generation of Adv Samples [\[link\]](https://xueshu.baidu.com/usercenter/paper/show?paperid=160n02v00u1q0mb0nd3j00c00u459303&site=xueshu_se).  
+ZL201911050075.X; CN110866287B  
+__Mengnan Zhao__, Bo Wang
+- A Defense Method Based on Deceptive Attackers to Adv Samples [\[link\]](https://xueshu.baidu.com/usercenter/paper/show?paperid=1u0u0ry0wu3308400t520eu0kw090862&site=xueshu_se).  
+ZL201911050099.5; CN110852363B  
+Bo Wang (Ms. Tutor), __Mengnan Zhao__
+- A Targeted Adv Poisoning Attack Method for Shared Data Protection [\[link\]](https://xueshu.baidu.com/usercenter/paper/show?paperid=133g0ja0h63s0jn0uv2h0vp0qx368771&site=xueshu_se)  
+CN113821770A  
+__Mengnan Zhao__, Bo Wang
 
-
-## Collaboration
-
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
-- **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
-- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
+## 🌱 Professional Service.
+Reviewer for: 
+- ACM Multimedia, CCF-A [\[link\]](https://2024.acmmm.org/)
+- IEEE Transactions on Neural Networks and Learning Systems, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8837)
+- IEEE Transactions on Multimedia, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail)
+- IEEE Transactions on Circuits and Systems for Video Technology, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3369)
+- European Conference on Computer Vision, CV Top-conf [\[link\]]()
+- IEEE Transactions on Network Science and Engineering, SCI1 & SCI2 [\[link\]](https://www.letpub.com.cn/index.php?journalid=10891&page=journalapp&view=detail)
+- Journal of King Saud University-Computer and Information Sciences SCI2 [\[link\]](https://www.letpub.com.cn/index.php?journalid=11137&page=journalapp&view=detail)
+- International Journal of Machine Learning and Cybernetics, SCI3 [\[link\]](https://www.letpub.com.cn/index.php?journalid=10028&page=journalapp&view=detail).
 
 
 {% include_relative _includes/services.md %}
 
 
-## Resources
-- <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
-<!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
+## 💻 Internships.
+- Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
 
-
+## 📝 Peer Review.
+- EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation [\[link\]](https://arxiv.org/pdf/2312.05602.pdf).  
+to IEEE Transactions on Neural Networks and Learning Systems  
+__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024).  
+- Separable Multi-Concept Erasure from Diffusion Models [\[link\]](https://arxiv.org/abs/2402.05947).  
+to International Conference on Machine Learning  
+__Mengnan Zhao__, Lihe Zhang, Tianhang Zheng, Yuqiu Kong, & Baocai Yin. (2024). 
+<div style="width: 300px; height: 300px;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iSx5fWQSPluEPbK21KgztEON981Sp3l13MlEkpAzyBM"></script>
+</div>
 
 
