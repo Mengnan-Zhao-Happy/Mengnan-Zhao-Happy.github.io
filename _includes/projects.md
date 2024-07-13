@@ -39,7 +39,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2402.18211.pdf">Catastrophic Overfitting: A Potential Blessing in Disguise</a></div>
-    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Yuqiu Kong, Baocai Yin</div>
     <div class="periodical"><em>European Conference on Computer Vision, 2024.</em></div>
     <div class="links">
     <a href="https://arxiv.org/pdf/2402.18211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -64,7 +64,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
-    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, Baocai Yin</div>
     <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -88,7 +88,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323009184">Class Correlation Correction for Unbised Scene Graph Generation</a></div>
-    <div class="author"><strong>Mengnan Zhao</strong>, Yuqiu Kong, Lihe Zhang, & Baocai Yin</div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Yuqiu Kong, Lihe Zhang, Baocai Yin</div>
     <div class="periodical"><em>Pattern Recognition, 2023.</em></div>
     <div class="links">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323009184" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -113,7 +113,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Temporal Knowledge Graph Reasoning Triggered
 by Memories</a></div>
-    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Yuqiu Kong, Baocai Yin</div>
     <div class="periodical"><em>Applied Intelligence, 2023.</em></div>
     <div class="links">
     <a href="https://arxiv.org/pdf/2110.08765.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -137,7 +137,7 @@ by Memories</a></div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Fast adversarial training with smooth convergence</a></div>
-    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Yuqiu Kong, Baocai Yin</div>
     <div class="periodical"><em>International Conference on Computer Vision, 2023.</em></div>
     <div class="links">
     <a href="https://arxiv.org/pdf/2308.12857v1.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -161,7 +161,7 @@ by Memories</a></div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Protecting by Attacking: A Personal Information Protecting Method with Cross-Modal Adversarial Examples </a></div>
-    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Yuqiu Kong, Baocai Yin</div>
     <div class="periodical"><em>Neurocomputing, 2023.</em></div>
     <div class="links">
     <a href="https://github.com/Dlut-lab-zmn/Image-Captioning-Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -185,7 +185,7 @@ by Memories</a></div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Further Understanding Towards Sparsity Adversarial Attacks</a></div>
-    <div class="author"><strong>Mengnan Zhao</strong>, Xiaorui Dai, Bo Wang, Fei Yu & Fei Wei</div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Xiaorui Dai, Bo Wang, Fei Yu, Fei Wei</div>
     <div class="periodical"><em>International Conference on Artificial Intelligence and Security, 2022.</em></div>
     <div class="links">
     <a href="http://ice.dlut.edu.cn/WangBo/Publications/Conference/FurtherUnderstandingTowardsSparsityAdversarialAttacks-2022.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -209,8 +209,8 @@ by Memories</a></div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Guided erasable adversarial attack (GEAA) toward shared data protection</a></div>
-    <div class="author"><strong>Mengnan Zhao</strong>, Bo Wang, Wei Wang, Tianhang Zheng, & Kui Ren</div>
-    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Bo Wang, Wei Wang, Tianhang Zheng, Kui Ren</div>
+    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2022.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9808181" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9808181" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -233,7 +233,7 @@ by Memories</a></div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial analysis for source camera identification </a></div>
-    <div class="author"><strong>Bo Wang (Ms. Tutor), Mengnan Zhao</strong>, Wei Wang, Xiaorui Dai, Yi Li, & Yanqing Guo</div>
+    <div class="author"><strong>Bo Wang (Ms. Tutor), Mengnan Zhao</strong>, Wei Wang, Xiaorui Dai, Yi Li, Yanqing Guo</div>
     <div class="periodical"><em>IEEE Transactions on Circuits and Systems for Video Technology, 2021.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9306891" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -251,20 +251,20 @@ by Memories</a></div>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/common.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
-    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
-    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Are You Confident That You Have Successfully Generated Adversarial Examples</a></div>
+    <div class="author"><strong>Bo Wang (Ms. Tutor), Mengnan Zhao</strong>, Wei Wang, Fei Wei, Zhan Qin, Kui Ren</div>
+    <div class="periodical"><em>IEEE Transactions on Circuits and Systems for Video Technology, 2020.</em></div>
     <div class="links">
-    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9169672" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9169672" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9169672" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9169672" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9169672" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
