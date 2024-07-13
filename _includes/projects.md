@@ -155,7 +155,7 @@ by Memories</a></div>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Neuro2023.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/Neuro2023.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
@@ -203,20 +203,20 @@ by Memories</a></div>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/TIFS2022.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
-    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Guided erasable adversarial attack (GEAA) toward shared data protection</a></div>
+    <div class="author"><strong>Mengnan Zhao</strong>, Bo Wang, Wei Wang, Tianhang Zheng, & Kui Ren</div>
     <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
     <div class="links">
-    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9808181" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9808181" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/GEAA-for-data-protection" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9808181" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9808181" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
@@ -227,20 +227,20 @@ by Memories</a></div>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/common.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial Attacks on Scene Graph Generation</a></div>
-    <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin</div>
-    <div class="periodical"><em>IEEE Transactions on Information Forensics and Security, 2024.</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10417771">Adversarial analysis for source camera identification </a></div>
+    <div class="author"><strong>Bo Wang (Ms. Tutor), Mengnan Zhao</strong>, Wei Wang, Xiaorui Dai, Yi Li, & Yanqing Guo</div>
+    <div class="periodical"><em>IEEE Transactions on Circuits and Systems for Video Technology, 2021.</em></div>
     <div class="links">
-    <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Dlut-lab-zmn/SGG_Attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="https://ieeexplore.ieee.org/document/10417771" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9306891" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9306891" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Dlut-lab-zmn/Source-attack" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9306891" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9306891" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
