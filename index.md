@@ -5,9 +5,9 @@ layout: homepage
 ## About Me
 
 Mengnan, Zhao received his [Ms. degree](https://kns.cnki.net/kcms2/article/abstract?v=xBNwvqFr00I758DBo6k1ZC7bbx_n_5AOYMy08Iw2bIixchabLWSl2bsw716sGJJyiSNre1iPlmE-kwxg_QF2jZZ2ft22y6XOEjQexNbLVwcBspTizTRTUSl4MNwMA-hOhB1UJ6nKIyLGw03ZhVGu0w==&uniplatform=NZKPT&language=CHS) under the supervision of Prof. [Bo Wang](http://www.aisdut.cn/WangBo/publications.html) in 2021. He is pursuing his Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). 
-I am also a visiting Ph.D. of Learning and Vision (LV) Lab at the National University of Singapore under the supervision of Prof. [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en).
+He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National University of Singapore under the supervision of Prof. [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en).
 
-👋 Hi, I’m zmn ([CV](https://github.com/Mengnan-Zhao-Happy/Mengnan-Zhao-Happy.github.io/blob/master/assets/files/zmn.pdf)). Feel free to contact me by __Email or WeChat(15822843520)__.
+👋 Feel free to contact Mengnan by __Email or WeChat(15822843520)__.
 
 🙏 2024Lucky -> ME <- 2024Lucky 🙏  Negative examples: AAAI2024 Rej-(wa,wa,wa,wr); CVPR2024 Rej-(wa,wa,wr).
 
