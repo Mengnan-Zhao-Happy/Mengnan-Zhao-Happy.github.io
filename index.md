@@ -15,6 +15,7 @@ I am also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Unive
 - 2024 首届青托博士专项奖（计算机学会托举）
 - 2024 辽宁省优秀毕业生
 - 2024 博士国家奖学金
+- 2024 大连理工大学优秀毕业生
 - 2024 大连理工大学博士单项奖（智育）
 - 2024 大连理工大学优秀研究生
 - 2023 大连理工大学优秀研究生
