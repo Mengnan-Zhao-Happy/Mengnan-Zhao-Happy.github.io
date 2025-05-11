@@ -66,14 +66,8 @@ __Mengnan Zhao__, Bo Wang
 
 ## Professional Service.
 Reviewer for: 
-- ACM Multimedia, CCF-A [\[link\]](https://2024.acmmm.org/)
-- IEEE Transactions on Neural Networks and Learning Systems, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8837)
-- IEEE Transactions on Multimedia, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail)
-- IEEE Transactions on Circuits and Systems for Video Technology, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3369)
-- European Conference on Computer Vision, CV Top-conf [\[link\]]()
-- IEEE Transactions on Network Science and Engineering, SCI1 & SCI2 [\[link\]](https://www.letpub.com.cn/index.php?journalid=10891&page=journalapp&view=detail)
-- Journal of King Saud University-Computer and Information Sciences SCI2 [\[link\]](https://www.letpub.com.cn/index.php?journalid=11137&page=journalapp&view=detail)
-- International Journal of Machine Learning and Cybernetics, SCI3 [\[link\]](https://www.letpub.com.cn/index.php?journalid=10028&page=journalapp&view=detail).
+- [C]. CVPR, ICCV, ECCV, ACMM...
+- [J]. TIFS, TCSVT, TMM, TNNLS, TNSE, ESWA, EAAI...
 
 
 ## Internships.
