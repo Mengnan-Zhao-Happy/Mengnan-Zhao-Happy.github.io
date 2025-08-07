@@ -17,7 +17,7 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 - 2025.03, Back from a CSC visiting program at NUS. Open to inquiries！
 
 ## Honors
-- Selected for the 2024 China Association for Science and Technology Youth Talent PhD Program (Computer Society)
+- 2024 China Association for Science and Technology Youth Talent PhD Program (Computer Society)
 - 2024 Outstanding Graduate of Liaoning Province
 - 2024 National PhD Scholarship (China)
 - 2024 Outstanding Graduate of Dalian University of Technology
