@@ -11,8 +11,12 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 🙏 2024Lucky -> ME <- 2024Lucky 🙏  Negative examples: AAAI2024 Rej-(wa,wa,wa,wr); CVPR2024 Rej-(wa,wa,wr).
 
+## Works
+
+Resigned from the Assist. Prof. position at South China University of Technology. Welcome to consult!
+
 ## Honors
-- 2024 入选****人才专项（计算机学会）
+- 2024 入选中国科协青年人才博士生专项（计算机学会）
 - 2024 辽宁省优秀毕业生
 - 2024 博士国家奖学金
 - 2024 大连理工大学优秀毕业生
@@ -21,7 +25,7 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 - 2023 大连理工大学优秀研究生
 
 ## Research Interests
-- **Privacy:** machine unlearn,
+- **Security and Privacy:** watermark and machine unlearn,
 - **Adversarial:** adversarial attack and adversarial trianing,
 - **Fairness:** prediction debiasing
 - **Machine Learning:** 3D scene understanding
@@ -29,6 +33,7 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 ## News (1st author) 🎉 
 __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR  
+- \[2025-07\] One paper on 3D Instance Segmentation is accepted by ESWA.
 - \[2024-07\] One paper on Fast Adversarial Training is accepted by ECCV.
 - \[2024-01\] One paper on Scene Graph Generation Attack is accepted by IEEE TIFS.
 - \[2023-12\] One paper on Unbised Scene Graph Generation is accepted by PR.
@@ -45,7 +50,6 @@ __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/projects.md %}
-
 
 ## Patents.
 - A Reasonable Adv Analysis Method for Source Camera Recognition [\[link\]](https://www.xjishu.com/zhuanli/55/202011283607.html).  
