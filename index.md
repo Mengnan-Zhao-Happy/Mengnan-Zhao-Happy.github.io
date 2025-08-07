@@ -15,6 +15,7 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 - 2025.09, Resigned from the Assist. Prof. position at South China University of Technology. Welcome to consult!
 - 2025.03, Back from a CSC visiting program at NUS. Open to inquiries！
+- 2021, Internships in Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
 
 ## Honors
 - 2024 China Association for Science and Technology Youth Talent PhD Program (Computer Society)
@@ -73,20 +74,4 @@ __Mengnan Zhao__, Bo Wang
 Reviewer for: 
 - [C]. CVPR, ICCV, ECCV, ACMM...
 - [J]. TIFS, TCSVT, TMM, TNNLS, TNSE, ESWA, EAAI...
-
-
-## Internships.
-- Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
-
-## Peer Review.
-- EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation [\[link\]](https://arxiv.org/pdf/2312.05602.pdf).  
-to IEEE Transactions on Neural Networks and Learning Systems  
-__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024).  
-- Separable Multi-Concept Erasure from Diffusion Models [\[link\]](https://arxiv.org/abs/2402.05947).  
-to International Conference on Machine Learning  
-__Mengnan Zhao__, Lihe Zhang, Tianhang Zheng, Yuqiu Kong, & Baocai Yin. (2024). 
-<div style="width: 300px; height: 300px;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iSx5fWQSPluEPbK21KgztEON981Sp3l13MlEkpAzyBM"></script>
-</div>
-
 
