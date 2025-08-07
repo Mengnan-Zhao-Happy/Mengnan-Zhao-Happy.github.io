@@ -13,16 +13,17 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 ## Works
 
-Resigned from the Assist. Prof. position at South China University of Technology. Welcome to consult!
+- 2025.09, Resigned from the Assist. Prof. position at South China University of Technology. Welcome to consult!
+- 2025.03, Back from a CSC visiting program at NUS. Open to inquiries！
 
 ## Honors
-- 2024 入选中国科协青年人才博士生专项（计算机学会）
-- 2024 辽宁省优秀毕业生
-- 2024 博士国家奖学金
-- 2024 大连理工大学优秀毕业生
-- 2024 大连理工大学博士单项奖（智育）
-- 2024 大连理工大学优秀研究生
-- 2023 大连理工大学优秀研究生
+- Selected for the 2024 China Association for Science and Technology Youth Talent PhD Program (Computer Society)
+- 2024 Outstanding Graduate of Liaoning Province
+- 2024 National PhD Scholarship (China)
+- 2024 Outstanding Graduate of Dalian University of Technology
+- 2024 Dalian University of Technology PhD Individual Award (Academic Excellence)
+- 2024 Excellent Postgraduate Student of Dalian University of Technology
+- 2023 Excellent Postgraduate Student of Dalian University of Technology
 
 ## Research Interests
 - **Security and Privacy:** watermark and machine unlearn,
