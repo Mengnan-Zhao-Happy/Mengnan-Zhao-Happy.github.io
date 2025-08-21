@@ -4,18 +4,18 @@ layout: homepage
 
 ## About Me
 
-Mengnan, Zhao received his [Ms. degree](https://kns.cnki.net/kcms2/article/abstract?v=xBNwvqFr00I758DBo6k1ZC7bbx_n_5AOYMy08Iw2bIixchabLWSl2bsw716sGJJyiSNre1iPlmE-kwxg_QF2jZZ2ft22y6XOEjQexNbLVwcBspTizTRTUSl4MNwMA-hOhB1UJ6nKIyLGw03ZhVGu0w==&uniplatform=NZKPT&language=CHS) under the supervision of Prof. [Bo Wang](http://www.aisdut.cn/WangBo/publications.html) in 2021. He is pursuing his Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). 
+Mengnan, Zhao received his [Ms. degree](https://kns.cnki.net/kcms2/article/abstract?v=xBNwvqFr00I758DBo6k1ZC7bbx_n_5AOYMy08Iw2bIixchabLWSl2bsw716sGJJyiSNre1iPlmE-kwxg_QF2jZZ2ft22y6XOEjQexNbLVwcBspTizTRTUSl4MNwMA-hOhB1UJ6nKIyLGw03ZhVGu0w==&uniplatform=NZKPT&language=CHS) under the supervision of Prof. [Bo Wang](http://www.aisdut.cn/WangBo/publications.html) in 2021, and his Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN) in 2025. 
 He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National University of Singapore under the supervision of Prof. [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en).
 
 👋 Feel free to contact Mengnan by __Email or WeChat(15822843520)__.
 
 🙏 2024Lucky -> ME <- 2024Lucky 🙏  Negative examples: AAAI2024 Rej-(wa,wa,wa,wr); CVPR2024 Rej-(wa,wa,wr).
 
-## Works
+## Work
 
 - 2025.09, Resigned from the Assist. Prof. position at South China University of Technology. Welcome to consult!
 - 2025.03, Back from a CSC visiting program at NUS. Open to inquiries！
-- 2021, Internships in Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
+- 2021.03, Internships in Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
 
 ## Honors
 - 2024 China Association for Science and Technology Youth Talent PhD Program (Computer Society)
@@ -36,6 +36,7 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 ## News (1st author) 🎉 
 __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR  
 - \[2025-07\] One paper on 3D Instance Segmentation is accepted by ESWA.
+- \[2025-06\] Obtain my Ph.D degree from DUT.
 - \[2024-07\] One paper on Fast Adversarial Training is accepted by ECCV.
 - \[2024-01\] One paper on Scene Graph Generation Attack is accepted by IEEE TIFS.
 - \[2023-12\] One paper on Unbised Scene Graph Generation is accepted by PR.
@@ -44,6 +45,7 @@ __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
 - \[2023-09\] One paper on Image Captioning Attack is accepted by Neurocomputing.
 - \[2022-07\] One paper on Adversarial Attack is accepted by ICAIS.
 - \[2022-06\] One paper on Adversarial Attack is accepted by IEEE TIFS.
+- \[2021-06\] Obtain my Ms. degree from DUT.
 - \[2020-12\] One paper on Adversarial Attack is accepted by IEEE TCSVT.
 - \[2020-08\] One paper on Adversarial Attack is accepted by IEEE TCSVT.
 - \[2019-12\] One paper on SCI is accepted by IEEE Access (Direct Accept. Before Warning).
