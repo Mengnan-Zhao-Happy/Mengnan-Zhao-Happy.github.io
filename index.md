@@ -18,10 +18,10 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 - 2021.03, Internships in Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
 
 ## Honors
-- 2024 China Association for Science and Technology Youth Talent PhD Program (Computer Society)
-- 2024 Outstanding Graduate of Liaoning Province
-- 2024 National PhD Scholarship (China)
-- 2024 Outstanding Graduate of Dalian University of Technology
+- 2025 China Association for Science and Technology Youth Talent PhD Program (Computer Society)
+- 2025 Outstanding Graduate of Liaoning Province
+- 2025 National PhD Scholarship (China)
+- 2025 Outstanding Graduate of Dalian University of Technology
 - 2024 Dalian University of Technology PhD Individual Award (Academic Excellence)
 - 2024 Excellent Postgraduate Student of Dalian University of Technology
 - 2023 Excellent Postgraduate Student of Dalian University of Technology
@@ -34,7 +34,9 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 - **Knowledge Graph:** Temporal knowledge graph reasoning
 
 ## News (1st author) 🎉 
-__TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR  
+__TOP [C]/[J]__: CVPR, ICCV, ECCV, TIFS, SCIENCE CHINA Information Sciences, TCSVT, PR  
+- \[2026-02\] One paper on Adversarial Training is accepted by CVPR.
+- \[2026-01\] One paper on Machine Unlearn is accepted by SCIENCE CHINA Information Sciences.
 - \[2025-07\] One paper on 3D Instance Segmentation is accepted by ESWA.
 - \[2025-06\] Obtain my Ph.D degree from DUT.
 - \[2024-07\] One paper on Fast Adversarial Training is accepted by ECCV.
