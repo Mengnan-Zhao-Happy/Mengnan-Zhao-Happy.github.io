@@ -13,9 +13,9 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 ## Work
 
-- 2025.09, Resigned from the Assist. Prof. position at South China University of Technology. Welcome to consult!
-- 2025.03, Back from a CSC visiting program at NUS. Open to inquiries！
-- 2021.03, Internships in Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
+- 2025.07-2025.09, Assist. Prof. position at South China University of Technology, currently resigned.
+- 2024.10-2025.04, CSC visiting scholar at NUS. 
+- 2021.02-2021.06, Internships in Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
 
 ## Honors
 - 2025 China Association for Science and Technology Youth Talent PhD Program (Computer Society)
