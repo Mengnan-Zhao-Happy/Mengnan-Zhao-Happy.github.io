@@ -35,6 +35,7 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 ## News (1st author) 🎉 
 __TOP [C]/[J]__: CVPR, ICCV, ECCV, TIFS, SCIENCE CHINA Information Sciences, TCSVT, PR  
+- \[2026-03\] One paper on Machine Unlearn is accepted by SCIENCE CHINA Information Sciences.
 - \[2026-02\] One paper on Adversarial Training is accepted by CVPR.
 - \[2026-01\] One paper on Machine Unlearn is accepted by SCIENCE CHINA Information Sciences.
 - \[2025-07\] One paper on 3D Instance Segmentation is accepted by ESWA.
