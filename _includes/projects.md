@@ -34,7 +34,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/SRSME.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">SCIS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -58,7 +58,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ESWA.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">ESWA</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -84,7 +84,7 @@ Instance Positions</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ECCV2024.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">ECCV</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -109,7 +109,7 @@ Instance Positions</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TIFS2024.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">TIFS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -133,7 +133,7 @@ Instance Positions</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PR2024.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">PR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -157,7 +157,7 @@ Instance Positions</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/APID2023.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">APID</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -182,7 +182,7 @@ by Memories</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ICCV2023.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">ICCV</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -206,7 +206,7 @@ by Memories</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Neuro2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">Neuro</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -254,7 +254,7 @@ by Memories</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TIFS2022.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">TIFS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -278,7 +278,7 @@ by Memories</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/common.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">TCSVT</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -302,7 +302,7 @@ by Memories</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/common.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">TCSVT</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -332,7 +332,7 @@ by Memories</a></div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8932363">Source Camera Identification Based on Coupling Coding and Adaptive Filter</a></div>
     <div class="author"><strong>Mengnan Zhao</strong>, Bo Wang, Fei Wei, Meineng Zhu, Xue Sui</div>
-    <div class="periodical"><em>IEEE Access, direct accept, 2019.</em></div>
+    <div class="periodical"><em>IEEE Access, direct accept, before warning 2019.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8932363" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8932363" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
