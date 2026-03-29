@@ -18,7 +18,7 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 - 2021.02-2021.06, Internships in Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
 
 ## Honors
-- 2025 China Association for Science and Technology Youth Talent PhD Program (Computer Society)
+- 2025 **China Association for Science and Technology Youth Talent PhD Program (Computer Society)**
 - 2025 Outstanding Graduate of Liaoning Province
 - 2025 National PhD Scholarship (China)
 - 2025 Outstanding Graduate of Dalian University of Technology
