@@ -38,16 +38,16 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2402.18211.pdf">ipFormer: Enhancing 3D Instance Segmentation by Emphasizing
+    <div class="title"><a href="https://arxiv.org/pdf/2402.18211.pdf">EipFormer: Enhancing 3D Instance Segmentation by Emphasizing
 Instance Positions</a></div>
     <div class="author"><strong>Mengnan Zhao</strong>, Lihe Zhang, Yuqiu Kong, Baocai Yin</div>
     <div class="periodical"><em>Expert Systems With Applications, 2024.</em></div>
     <div class="links">
-    <a href="https://arxiv.org/pdf/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://arxiv.org/pdf/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="https://arxiv.org/pdf/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    <a href="https://mengnan-zhao-happy.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://mengnan-zhao-happy.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://mengnan-zhao-happy.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://mengnan-zhao-happy.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://mengnan-zhao-happy.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
