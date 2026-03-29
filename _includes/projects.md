@@ -389,7 +389,7 @@ by Memories</a></div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8932363">Source Camera Identification Based on Coupling Coding and Adaptive Filter</a></div>
     <div class="author"><strong>Mengnan Zhao</strong>, Bo Wang, Fei Wei, Meineng Zhu, Xue Sui</div>
-    <div class="periodical"><em>IEEE Access, direct accept, before warning 2019.</em></div>
+    <div class="periodical"><em>IEEE Access, **direct accept**, before warning 2019.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8932363" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8932363" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
