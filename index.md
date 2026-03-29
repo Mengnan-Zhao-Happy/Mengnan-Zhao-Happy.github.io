@@ -9,8 +9,6 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 👋 Feel free to contact Mengnan by __Email or WeChat(15822843520)__.
 
-🙏 2024Lucky -> ME <- 2024Lucky 🙏  Negative examples: AAAI2024 Rej-(wa,wa,wa,wr); CVPR2024 Rej-(wa,wa,wr).
-
 ## Work
 
 - 2025.07-2025.09, Assist. Prof. at South China University of Technology, currently resigned.
@@ -83,4 +81,8 @@ __Mengnan Zhao__, Bo Wang
 Reviewer for: 
 - [C]. CVPR, ICCV, ECCV, NIPS, ACMM...
 - [J]. TIFS, TCSVT, TMM, TNNLS, TNSE, ESWA, EAAI...
+
+## Lucky!!!
+🙏 2024Lucky -> ME <- 2024Lucky 🙏  Negative examples: AAAI2024 Rej-(wa,wa,wa,wr); CVPR2024 Rej-(wa,wa,wr).
+
 
