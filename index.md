@@ -10,7 +10,7 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 👋 Feel free to contact Mengnan by __Email or WeChat(15822843520)__.
 
 ## Work
-
+- Currently, Tenure‑track Associate Professor at Anhui University
 - 2025.07-2025.09, Assist. Prof. at South China University of Technology, currently resigned.
 - 2024.10-2025.04, CSC visiting scholar at NUS. 
 - 2021.02-2021.06, Internships in Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
