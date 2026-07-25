@@ -20,7 +20,7 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 - Member of the CSIG Technical Committee on Forensics and Security
 - Member of IEEE, CCF, CSIG
 - **Senior Member of the China Graphics Society**
-- 2025 **China Association for Science and Technology Youth Talent PhD Program (Computer Society)**
+- 2024 **China Association for Science and Technology Youth Talent PhD Program (Computer Society)**
 - 2025 Outstanding Graduate of Liaoning Province
 - 2025 National PhD Scholarship (China)
 - 2025 Outstanding Graduate of Dalian University of Technology
@@ -79,7 +79,7 @@ __Mengnan Zhao__, Bo Wang
 
 ## Professional Service.
 Reviewer for: 
-- [C]. CVPR, ICCV, ECCV, NIPS, ACMM...
+- [C]. CVPR, ICCV, ECCV, NIPS, ACMM, AAAI...
 - [J]. TIFS, TCSVT, TMM, TNNLS, TNSE, ESWA, EAAI...
 
 ## Lucky!!!
