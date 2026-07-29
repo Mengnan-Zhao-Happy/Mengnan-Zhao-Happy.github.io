@@ -1,24 +1,24 @@
-url: "mengnanzhao.xyz"
+url: "https://mengnan-zhao-happy.github.io"
 # baseurl: Hanchao-Zhang.github.io
 # Basic Information
 title: Mengnan Zhao
 # subtitle:
-position: Ph.D. Candidate
+position: 五类人才引进（副高待遇）
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 # subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: DLUT
+affiliation: Anhui University
 subaffiliation: Computer science
-affiliation_link: https://en.dlut.edu.cn/
-subaffiliation_link: https://cs.dlut.edu.cn/
+affiliation_link: https://www.ahu.edu.cn/
+subaffiliation_link: https://www.ahu.edu.cn/
 email: gaoshanxingzhi@163.com
-address: Liaoning Dalian, China
+address: Hefei, Anhui, China
 # address_link: 
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Mengnan Zhao, adversarial training, machine unlearning, security and privacy, computer vision
+description: Academic homepage of Mengnan Zhao, focusing on adversarial learning, security and privacy, machine unlearning, and 3D scene understanding.
+canonical: https://mengnan-zhao-happy.github.io/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.

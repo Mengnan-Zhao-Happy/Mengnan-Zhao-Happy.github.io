@@ -114,10 +114,18 @@
         </a>
         {% endif %}
       </div>
-      <br>
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="#about-me">About</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#news-1st-author">News</a>
+        <a href="#professional-service-selected">Service</a>
+        <a href="#publications">Publications</a>
+        <a href="#patents">Patents</a>
+      </nav>
 
     </header>
-    <section>
+    <main class="content-shell">
+      <section class="content-panel">
 
       {{ content }}
 
@@ -128,7 +136,8 @@
             rel="noopener">Minimal Light</a> theme. Edited by Hanchao Zhang.</small></p>
       {% endif %}
 
-    </section>
+      </section>
+    </main>
     <footer>
 
     </footer>
