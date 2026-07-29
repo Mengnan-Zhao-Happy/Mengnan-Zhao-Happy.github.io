@@ -1175,6 +1175,82 @@ header a {
   color: #44505f;
 }
 
+.student-recruiting {
+  background: var(--panel-bg);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 8px 22px rgba(20, 30, 50, 0.05);
+  display: grid;
+  gap: 0;
+  overflow: hidden;
+}
+
+.student-recruiting section {
+  padding: 18px 20px;
+}
+
+.student-recruiting section + section {
+  border-top: 1px solid var(--line);
+}
+
+.student-recruiting h3 {
+  align-items: baseline;
+  color: var(--ink);
+  display: flex;
+  flex-wrap: wrap;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 17px;
+  font-weight: 760;
+  gap: 8px;
+  line-height: 1.3;
+  margin: 0 0 14px;
+}
+
+.student-recruiting h3 span {
+  background: var(--soft-amber);
+  border: 1px solid rgba(180, 83, 9, 0.16);
+  border-radius: 999px;
+  color: var(--accent-3);
+  font-size: 12px;
+  font-weight: 760;
+  line-height: 1;
+  padding: 6px 9px;
+}
+
+.recruiting-list {
+  display: grid;
+  gap: 10px;
+}
+
+.recruiting-list article {
+  border-left: 3px solid rgba(49, 92, 150, 0.22);
+  padding-left: 12px;
+}
+
+.recruiting-list strong {
+  color: var(--accent);
+  display: block;
+  font-size: 15px;
+  font-weight: 760;
+  margin-bottom: 3px;
+}
+
+.recruiting-list p {
+  color: #44505f;
+  margin: 0;
+}
+
+.student-recruiting-close {
+  background: var(--soft-blue);
+  border-top: 1px solid var(--line);
+  color: var(--accent) !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 15px !important;
+  font-weight: 760;
+  margin: 0 !important;
+  padding: 14px 20px;
+}
+
 .venue-strip {
   align-items: center;
   background: var(--panel-bg);
@@ -1552,6 +1628,7 @@ strong {
   .student-hero p,
   .student-callout span,
   .student-empty,
+  .recruiting-list p,
   .service-list li,
   .service-main span,
   .journey-note span {
@@ -1567,6 +1644,7 @@ strong {
   .student-hero,
   .student-card,
   .student-callout,
+  .student-recruiting,
   .service-window,
   .patent-card,
   .service-card {
