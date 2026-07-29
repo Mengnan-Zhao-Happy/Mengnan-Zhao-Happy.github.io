@@ -1072,33 +1072,35 @@ header a {
 }
 
 .student-card {
+  align-items: center;
   background: var(--panel-bg);
   border: 1px solid var(--line);
   border-radius: 8px;
   box-shadow: 0 8px 22px rgba(20, 30, 50, 0.045);
-  display: block;
-  overflow: hidden;
-  padding: 0;
+  display: grid;
+  gap: 14px;
+  grid-template-columns: 92px minmax(0, 1fr);
+  min-height: 128px;
+  padding: 14px;
 }
 
 .student-photo {
-  aspect-ratio: 5 / 4;
+  aspect-ratio: 4 / 5;
   background: var(--soft-blue);
-  border: 0;
-  border-bottom: 1px solid var(--line);
-  border-radius: 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
   box-shadow: none;
   display: block;
   height: auto;
   object-fit: cover;
-  object-position: center 20%;
+  object-position: center 18%;
   padding: 0;
-  width: 100%;
+  width: 92px;
 }
 
 .student-card-body {
   min-width: 0;
-  padding: 14px 16px 16px;
+  padding: 0;
 }
 
 .student-card h3 {
@@ -1760,6 +1762,16 @@ strong {
   .service-badges {
     justify-content: flex-start;
     min-width: 0;
+  }
+
+  .student-card {
+    grid-template-columns: 78px minmax(0, 1fr);
+    min-height: 112px;
+    padding: 12px;
+  }
+
+  .student-photo {
+    width: 78px;
   }
 
   .hero-card {
