@@ -1079,34 +1079,38 @@ header a {
   border-radius: 8px;
   box-shadow: 0 8px 22px rgba(20, 30, 50, 0.05);
   display: grid;
-  gap: 14px;
-  grid-template-columns: 58px minmax(0, 1fr);
-  min-height: 120px;
+  gap: 16px;
+  grid-template-columns: 108px minmax(0, 1fr);
+  min-height: 150px;
   padding: 14px;
 }
 
-.student-avatar {
-  align-items: center;
+.student-photo {
+  aspect-ratio: 4 / 5;
   background: var(--soft-blue);
-  border: 1px solid rgba(49, 92, 150, 0.18);
+  border: 1px solid var(--line);
   border-radius: 8px;
-  color: var(--accent);
-  display: flex;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 24px;
-  font-weight: 700;
-  height: 58px;
-  justify-content: center;
-  width: 58px;
+  box-shadow: none;
+  display: block;
+  height: auto;
+  object-fit: cover;
+  object-position: center 18%;
+  padding: 0;
+  width: 108px;
+}
+
+.student-card-body {
+  min-width: 0;
+  padding-top: 2px;
 }
 
 .student-card h3 {
   color: var(--ink);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 760;
   line-height: 1.3;
-  margin: 0 0 5px;
+  margin: 0 0 7px;
 }
 
 .student-card p {
@@ -1121,6 +1125,32 @@ header a {
   line-height: 1.2;
   margin-bottom: 8px !important;
   text-transform: uppercase;
+}
+
+.student-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 14px;
+}
+
+.student-tags span {
+  background: var(--soft-green);
+  border: 1px solid rgba(15, 118, 110, 0.16);
+  border-radius: 999px;
+  color: var(--accent-2);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 12px;
+  font-weight: 760;
+  line-height: 1;
+  padding: 7px 10px;
+  white-space: nowrap;
+}
+
+.student-tags span:first-child {
+  background: var(--soft-amber);
+  border-color: rgba(180, 83, 9, 0.16);
+  color: var(--accent-3);
 }
 
 .student-callout {
@@ -1651,6 +1681,17 @@ strong {
   .service-badges {
     justify-content: flex-start;
     min-width: 0;
+  }
+
+  .student-card {
+    gap: 12px;
+    grid-template-columns: 88px minmax(0, 1fr);
+    min-height: 126px;
+    padding: 12px;
+  }
+
+  .student-photo {
+    width: 88px;
   }
 
   .hero-card {

@@ -8,19 +8,36 @@ permalink: /students.html
   <span>Research Group</span>
   <h1>Students</h1>
   <p>
-    This page will host student profiles, research directions, and group updates.
+    Current students working with Mengnan Zhao on trustworthy machine learning,
+    computer vision, and related research topics.
   </p>
 </div>
 
 <h2 id="current-students">Current Students</h2>
 
 <div class="student-grid">
-  <article class="student-card is-placeholder">
-    <div class="student-avatar" aria-hidden="true">+</div>
-    <div>
-      <h3>Student Name</h3>
-      <p class="student-meta">M.S. / Ph.D. Student</p>
-      <p>Research interests and short bio will be added here.</p>
+  <article class="student-card">
+    <img class="student-photo" src="{{ '/assets/img/students/xu-tong.jpg' | relative_url }}" alt="许潼">
+    <div class="student-card-body">
+      <h3>许潼</h3>
+      <p class="student-meta">2026级 专硕</p>
+      <div class="student-tags" aria-label="Student highlights">
+        <span>初试 374</span>
+        <span>CET-6</span>
+        <span>国奖 × 2</span>
+      </div>
+    </div>
+  </article>
+
+  <article class="student-card">
+    <img class="student-photo" src="{{ '/assets/img/students/xu-chao.jpg' | relative_url }}" alt="许超">
+    <div class="student-card-body">
+      <h3>许超</h3>
+      <p class="student-meta">2026级 学硕</p>
+      <div class="student-tags" aria-label="Student highlights">
+        <span>初试 370</span>
+        <span>CET-6</span>
+      </div>
     </div>
   </article>
 </div>
