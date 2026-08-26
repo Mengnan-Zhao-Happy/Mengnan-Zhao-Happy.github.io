@@ -80,7 +80,7 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 </div>
 
 <div class="news-timeline">
-  <div class="news-item"><time>2026-03</time><p>One project supported by <strong>NSFC 青年基金C类</strong>.</p></div>
+  <div class="news-item"><time>2026-08</time><p>One project supported by <strong>NSFC 青年基金C类</strong>.</p></div>
   <div class="news-item"><time>2026-03</time><p>One paper on Machine Unlearn is accepted by <strong>中国科学-信息科学</strong>.</p></div>
   <div class="news-item"><time>2026-02</time><p>One paper on Adversarial Training is accepted by <strong>CVPR</strong>.</p></div>
   <div class="news-item"><time>2026-01</time><p>One paper on Machine Unlearn is accepted by <strong>中国科学-信息科学</strong>.</p></div>
