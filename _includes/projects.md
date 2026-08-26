@@ -1,7 +1,6 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
+<h2 id="projects">Projects</h2>
 
 <div class="publications">
-<h3 class="publication-subheading">Funded Projects</h3>
 <ol class="bibliography">
 
 <!-- 
@@ -64,8 +63,11 @@
 </li>
 
 </ol>
+</div>
 
-<h3 class="publication-subheading">Publications</h3>
+<h2 id="publications">Publications</h2>
+
+<div class="publications">
 <ol class="bibliography">
 
 <li>
