@@ -32,6 +32,46 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/project-nsfc.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NSFC</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://grants.nsfc.gov.cn/egrantweb/proposal/distribution/prp-list###">面向预训练大模型的安全适配关键技术研究</a></div>
+    <div class="author"><strong>Principal Investigator: Mengnan Zhao</strong></div>
+    <div class="periodical"><em>青年科学基金项目（C类）, 2027.01.01 - 2029.12.31, 30万元.</em></div>
+    <div class="pub-rank-badges"><span>Project</span><span>NSFC</span><span>Youth Fund Class C</span><span>RMB 300K</span></div>
+    <div class="links">
+      <a href="https://grants.nsfc.gov.cn/egrantweb/proposal/distribution/prp-list###" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Grant</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/project-ahu-startup.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AHU</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.ahu.edu.cn/">安徽大学人才启动经费</a></div>
+    <div class="author"><strong>Principal Investigator: Mengnan Zhao</strong></div>
+    <div class="periodical"><em>Anhui University Talent Start-up Fund, 2026.01.01 - 2031.01.01, 30万元.</em></div>
+    <div class="pub-rank-badges"><span>Project</span><span>Anhui University</span><span>Start-up Fund</span><span>RMB 300K</span></div>
+    <div class="links">
+      <a href="https://www.ahu.edu.cn/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">AHU</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/co_analyze.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
