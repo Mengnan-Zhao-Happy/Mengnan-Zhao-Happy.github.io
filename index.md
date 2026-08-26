@@ -62,50 +62,30 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 ## Research Interests
 
-<div class="research-grid">
-  <article class="research-card research-card-blue">
-    <div class="research-icon"><i class="fas fa-shield-alt"></i></div>
-    <div class="research-copy">
-      <h3>Security &amp; Privacy</h3>
-      <p>Watermarking, machine unlearning, and data protection for trustworthy models.</p>
-      <div class="research-tags"><span>Watermark</span><span>Unlearning</span><span>Privacy</span></div>
-    </div>
-  </article>
+<div class="research-cloud-panel">
+  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
+</div>
 
-  <article class="research-card research-card-amber">
-    <div class="research-icon"><i class="fas fa-bolt"></i></div>
-    <div class="research-copy">
-      <h3>Adversarial Learning</h3>
-      <p>Adversarial attack, defense, and efficient robust training for deep networks.</p>
-      <div class="research-tags"><span>Attack</span><span>Defense</span><span>Training</span></div>
-    </div>
+<div class="research-lines">
+  <article>
+    <strong>Security &amp; Privacy</strong>
+    <span>Watermarking · machine unlearning · data protection</span>
   </article>
-
-  <article class="research-card research-card-green">
-    <div class="research-icon"><i class="fas fa-balance-scale"></i></div>
-    <div class="research-copy">
-      <h3>Fairness</h3>
-      <p>Prediction debiasing and reliable evaluation for responsible AI systems.</p>
-      <div class="research-tags"><span>Debiasing</span><span>Evaluation</span><span>Responsible AI</span></div>
-    </div>
+  <article>
+    <strong>Adversarial Learning</strong>
+    <span>Attack, defense, and efficient robust training for deep networks</span>
   </article>
-
-  <article class="research-card research-card-violet">
-    <div class="research-icon"><i class="fas fa-cubes"></i></div>
-    <div class="research-copy">
-      <h3>Machine Learning &amp; Vision</h3>
-      <p>3D scene understanding, visual perception, and robust representation learning.</p>
-      <div class="research-tags"><span>3D Vision</span><span>Scene</span><span>Representation</span></div>
-    </div>
+  <article>
+    <strong>Responsible AI</strong>
+    <span>Fairness, trustworthy evaluation, and safe model adaptation</span>
   </article>
-
-  <article class="research-card research-card-slate">
-    <div class="research-icon"><i class="fas fa-project-diagram"></i></div>
-    <div class="research-copy">
-      <h3>Knowledge Graph</h3>
-      <p>Temporal knowledge graph reasoning and structured intelligence for dynamic data.</p>
-      <div class="research-tags"><span>Reasoning</span><span>Temporal KG</span><span>Structure</span></div>
-    </div>
+  <article>
+    <strong>Vision Intelligence</strong>
+    <span>3D scene understanding, perception, and robust representation learning</span>
+  </article>
+  <article>
+    <strong>Structured Intelligence</strong>
+    <span>Temporal knowledge graph reasoning and semantic understanding</span>
   </article>
 </div>
 
