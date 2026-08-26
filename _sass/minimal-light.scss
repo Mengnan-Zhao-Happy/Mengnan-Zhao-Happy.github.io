@@ -1031,52 +1031,138 @@ header a {
   line-height: 1.35;
 }
 
-.research-cloud-panel {
-  background: var(--panel-bg);
+.research-map {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.research-core,
+.research-track {
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(248, 250, 252, 0.84)),
+    var(--panel-bg);
   border: 1px solid var(--line);
   border-radius: 8px;
-  box-shadow: 0 8px 22px rgba(20, 30, 50, 0.045);
-  margin-bottom: 12px;
+  box-shadow: 0 8px 22px rgba(20, 30, 50, 0.04);
   overflow: hidden;
+  position: relative;
 }
 
-.research-cloud-panel img {
-  aspect-ratio: 10 / 3;
-  border: 0;
+.research-core {
+  background:
+    linear-gradient(135deg, rgba(238, 246, 255, 0.92), rgba(255, 255, 255, 0.9) 58%, rgba(238, 249, 247, 0.76)),
+    var(--panel-bg);
+  grid-column: 1 / -1;
+  padding: 22px 24px 21px;
+}
+
+.research-core:after {
+  background-image:
+    linear-gradient(90deg, rgba(49, 92, 150, 0.07) 1px, transparent 1px),
+    linear-gradient(0deg, rgba(49, 92, 150, 0.06) 1px, transparent 1px);
+  background-size: 22px 22px;
+  content: "";
+  inset: 0;
+  opacity: 0.55;
+  pointer-events: none;
+  position: absolute;
+}
+
+.research-core > *,
+.research-track > * {
+  position: relative;
+  z-index: 1;
+}
+
+.research-core span,
+.research-track span {
+  color: var(--accent-2);
   display: block;
-  object-fit: cover;
-  padding: 0;
-  width: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  line-height: 1;
+  margin-bottom: 10px;
+  text-transform: uppercase;
 }
 
-.research-lines {
-  display: grid;
-  gap: 8px;
-}
-
-.research-lines article {
-  align-items: baseline;
-  background: var(--panel-bg);
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  box-shadow: 0 8px 22px rgba(20, 30, 50, 0.035);
-  display: grid;
-  gap: 12px;
-  grid-template-columns: 190px minmax(0, 1fr);
-  padding: 11px 14px;
-}
-
-.research-lines strong {
+.research-core strong {
   color: var(--accent);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 14.5px;
-  font-weight: 760;
-  line-height: 1.25;
+  font-size: 24px;
+  font-weight: 780;
+  line-height: 1.18;
 }
 
-.research-lines span {
+.research-core p {
   color: #44505f;
-  line-height: 1.55;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 10px 0 0;
+  max-width: 680px;
+}
+
+.research-track {
+  min-height: 130px;
+  padding: 18px 19px 17px;
+}
+
+.research-track:before {
+  background: currentColor;
+  content: "";
+  height: 100%;
+  left: 0;
+  opacity: 0.82;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.research-track:after {
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  content: "";
+  height: 82px;
+  opacity: 0.1;
+  position: absolute;
+  right: -30px;
+  top: -30px;
+  width: 82px;
+}
+
+.research-track strong {
+  color: var(--ink);
+  display: block;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 16px;
+  font-weight: 760;
+  line-height: 1.25;
+  margin-bottom: 8px;
+}
+
+.research-track p {
+  color: #44505f;
+  font-size: 14.5px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.research-track-blue {
+  color: var(--accent);
+}
+
+.research-track-amber {
+  color: var(--accent-3);
+}
+
+.research-track-green {
+  color: var(--accent-2);
+}
+
+.research-track-slate {
+  color: #64748b;
 }
 
 .student-hero {
@@ -1671,7 +1757,8 @@ strong {
   .hero-lede,
   .content-panel p,
   .content-panel li,
-  .research-lines span,
+  .research-core p,
+  .research-track p,
   .student-hero p,
   .student-callout span,
   .student-empty,
@@ -1688,8 +1775,8 @@ strong {
   }
 
   .teaching-item,
-  .research-cloud-panel,
-  .research-lines article,
+  .research-core,
+  .research-track,
   .student-hero,
   .student-card,
   .student-callout,
@@ -1701,8 +1788,9 @@ strong {
     box-shadow: none;
   }
 
-  .research-cloud-panel img {
-    opacity: 0.9;
+  .research-core,
+  .research-track {
+    background: var(--panel-bg);
   }
 }
 
@@ -1788,13 +1876,21 @@ strong {
     grid-template-columns: 1fr;
   }
 
-  .research-cloud-panel img {
-    aspect-ratio: 16 / 7;
+  .research-map {
+    grid-template-columns: 1fr;
   }
 
-  .research-lines article {
-    gap: 4px;
-    grid-template-columns: 1fr;
+  .research-core {
+    padding: 19px 18px 18px;
+  }
+
+  .research-core strong {
+    font-size: 21px;
+  }
+
+  .research-track {
+    min-height: 0;
+    padding: 15px 16px 14px;
   }
 
   .site-nav {

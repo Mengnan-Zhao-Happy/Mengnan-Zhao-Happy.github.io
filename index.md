@@ -62,31 +62,33 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 ## Research Interests
 
-<div class="research-cloud-panel">
-  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
-</div>
+<div class="research-map">
+  <section class="research-core">
+    <span>Research Focus</span>
+    <strong>Trustworthy AI Systems</strong>
+    <p>Building safer, more private, and more reliable learning systems across foundation models, vision, and structured knowledge.</p>
+  </section>
 
-<div class="research-lines">
-  <article>
+  <section class="research-track research-track-blue">
+    <span>01</span>
     <strong>Security &amp; Privacy</strong>
-    <span>Watermarking · machine unlearning · data protection</span>
-  </article>
-  <article>
+    <p>Watermarking · machine unlearning · data protection</p>
+  </section>
+  <section class="research-track research-track-amber">
+    <span>02</span>
     <strong>Adversarial Learning</strong>
-    <span>Attack, defense, and efficient robust training for deep networks</span>
-  </article>
-  <article>
+    <p>Attack · defense · efficient robust training</p>
+  </section>
+  <section class="research-track research-track-green">
+    <span>03</span>
     <strong>Responsible AI</strong>
-    <span>Fairness, trustworthy evaluation, and safe model adaptation</span>
-  </article>
-  <article>
-    <strong>Vision Intelligence</strong>
-    <span>3D scene understanding, perception, and robust representation learning</span>
-  </article>
-  <article>
-    <strong>Structured Intelligence</strong>
-    <span>Temporal knowledge graph reasoning and semantic understanding</span>
-  </article>
+    <p>Fairness · safe adaptation · trustworthy evaluation</p>
+  </section>
+  <section class="research-track research-track-slate">
+    <span>04</span>
+    <strong>Vision &amp; Knowledge</strong>
+    <p>3D scene understanding · knowledge graph reasoning · semantic understanding</p>
+  </section>
 </div>
 
 <h2 id="news-1st-author">News (1st author)</h2>
