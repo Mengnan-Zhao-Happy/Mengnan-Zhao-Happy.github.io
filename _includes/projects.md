@@ -57,7 +57,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.ahu.edu.cn/">安徽大学人才启动经费</a></div>
+    <div class="title"><a href="https://www.ahu.edu.cn/">人才启动经费</a></div>
     <div class="author"><strong>Principal Investigator: Mengnan Zhao</strong></div>
     <div class="periodical"><em>Anhui University Talent Start-up Fund, 2026.01.01 - 2031.01.01, 30万元.</em></div>
     <div class="pub-rank-badges"><span>Project</span><span>Anhui University</span><span>Start-up Fund</span><span>RMB 300K</span></div>
