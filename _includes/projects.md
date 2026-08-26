@@ -1,6 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
 
 <div class="publications">
+<h3 class="publication-subheading">Funded Projects</h3>
 <ol class="bibliography">
 
 <!-- 
@@ -41,9 +42,6 @@
     <div class="author"><strong>Principal Investigator: Mengnan Zhao</strong></div>
     <div class="periodical"><em>青年科学基金项目（C类）, 2027.01.01 - 2029.12.31, 30万元.</em></div>
     <div class="pub-rank-badges"><span>Project</span><span>NSFC</span><span>Youth Fund Class C</span><span>RMB 300K</span></div>
-    <div class="links">
-      <a href="https://grants.nsfc.gov.cn/egrantweb/proposal/distribution/prp-list###" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Grant</a>
-    </div>
   </div>
 </div>
 </li>
@@ -61,12 +59,14 @@
     <div class="author"><strong>Principal Investigator: Mengnan Zhao</strong></div>
     <div class="periodical"><em>Anhui University Talent Start-up Fund, 2026.01.01 - 2031.01.01, 30万元.</em></div>
     <div class="pub-rank-badges"><span>Project</span><span>Anhui University</span><span>Start-up Fund</span><span>RMB 300K</span></div>
-    <div class="links">
-      <a href="https://www.ahu.edu.cn/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">AHU</a>
-    </div>
   </div>
 </div>
 </li>
+
+</ol>
+
+<h3 class="publication-subheading">Publications</h3>
+<ol class="bibliography">
 
 <li>
 <div class="pub-row">
