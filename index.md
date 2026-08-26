@@ -62,33 +62,8 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 ## Research Interests
 
-<div class="research-map">
-  <section class="research-core">
-    <span>Research Focus</span>
-    <strong>Trustworthy AI Systems</strong>
-    <p>Building safer, more private, and more reliable learning systems across foundation models, vision, and structured knowledge.</p>
-  </section>
-
-  <section class="research-track research-track-blue">
-    <span>01</span>
-    <strong>Security &amp; Privacy</strong>
-    <p>Watermarking · machine unlearning · data protection</p>
-  </section>
-  <section class="research-track research-track-amber">
-    <span>02</span>
-    <strong>Adversarial Learning</strong>
-    <p>Attack · defense · efficient robust training</p>
-  </section>
-  <section class="research-track research-track-green">
-    <span>03</span>
-    <strong>Responsible AI</strong>
-    <p>Fairness · safe adaptation · trustworthy evaluation</p>
-  </section>
-  <section class="research-track research-track-slate">
-    <span>04</span>
-    <strong>Vision &amp; Knowledge</strong>
-    <p>3D scene understanding · knowledge graph reasoning · semantic understanding</p>
-  </section>
+<div class="research-cloud-panel">
+  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
 </div>
 
 <h2 id="news-1st-author">News (1st author)</h2>
