@@ -1,19 +1,19 @@
 ---
 layout: homepage
+lang: en
 ---
 
 <div class="hero-card">
   <h1>Adversarial Learning · Privacy · Vision</h1>
   <p class="hero-lede">
-    I work on adversarial learning, machine unlearning, data protection, fairness,
-    and 3D scene understanding, with publications across top computer vision and
-    information security venues.
+    I work on adversarial learning, machine unlearning, data protection, and fairness,
+    with publications across top computer vision and information security venues.
   </p>
   <div class="hero-stats" aria-label="Profile highlights">
     <div><strong>15 1st-author Papers</strong><span>During Master &amp; Ph.D.</span></div>
     <div><strong>5 Patents</strong><span>During Master &amp; Ph.D.</span></div>
     <div><strong>CVPR / ICCV / ECCV</strong><span>Top conference track</span></div>
-    <div><strong>TIFS / SCIS / TCSVT</strong><span>Top journal track</span></div>
+    <div><strong>TIFS / 中国科学 等</strong><span>Top journal track</span></div>
   </div>
 </div>
 
@@ -24,47 +24,23 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 👋 Feel free to contact Mengnan by __Email or WeChat(15822843520)__.
 
+<div class="personal-notes" aria-label="Personal notes">
+  <div class="personal-notes-heading">Two Lines I Like</div>
+  <article class="personal-note">
+    <span>01</span>
+    <strong>“勿以恶小而为之，勿以善小而不为。”</strong>
+  </article>
+  <article class="personal-note">
+    <span>02</span>
+    <strong>“以铜为镜，可以正衣冠；以史为镜，可以知兴替；以人为镜，可以明得失。”</strong>
+  </article>
+</div>
+
 ## Work
 - Currently, 五类人才引进（副高待遇） at Anhui University.
 - 2025.07-2025.09, Assist. Prof. at South China University of Technology, Resigned.
 - 2024.10-2025.04, CSC visiting scholar at NUS. 
 - 2021.02-2021.06, Internships in Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
-
-<h2 id="teaching">Teaching</h2>
-
-<div class="teaching-list">
-  <article class="teaching-item">
-    <time>2026 Spring</time>
-    <strong>人工智能通识 I &amp; III</strong>
-  </article>
-  <article class="teaching-item">
-    <time>2026 Fall</time>
-    <strong>机器学习</strong>
-  </article>
-  <article class="teaching-item">
-    <time>2026 Fall</time>
-    <strong>计算机伦理</strong>
-  </article>
-</div>
-
-## Honors
-- Member of the China Graphics Society’s Technical Committee on Animation and Graphics Engineering
-- Member of the CSIG Technical Committee on Forensics and Security
-- Member of IEEE, CCF, CSIG
-- **Senior Member of the China Graphics Society**
-- 2024 **China Association for Science and Technology Youth Talent PhD Program (Computer Society)**
-- 2025 **Outstanding Graduate of Liaoning Province**
-- 2025 National PhD Scholarship (China)
-- 2025 Outstanding Graduate of Dalian University of Technology
-- 2024 Dalian University of Technology PhD Individual Award (Academic Excellence)
-- 2024 Excellent Postgraduate Student of Dalian University of Technology
-- 2023 Excellent Postgraduate Student of Dalian University of Technology
-
-## Research Interests
-
-<div class="research-cloud-panel">
-  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
-</div>
 
 <h2 id="news-1st-author">News (1st author)</h2>
 
@@ -102,6 +78,12 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
   <div class="news-item"><time>2020-01</time><p>One patent on Adversarial Sample Generation is published as <strong>CN110866287B</strong>.</p></div>
   <div class="news-item"><time>2020-01</time><p>One patent on Adversarial Sample Defense is published as <strong>CN110852363B</strong>.</p></div>
   <div class="news-item"><time>2019-12</time><p>One paper on SCI is accepted by <strong>IEEE Access</strong> (direct accept, before warning).</p></div>
+</div>
+
+## Research Interests
+
+<div class="research-cloud-panel">
+  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
 </div>
 
 <h2 id="professional-service-selected">Professional Service.（Selected）</h2>
@@ -169,54 +151,32 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
   </article>
 </div>
 
-<!-- {% include_relative _includes/publications.md %} -->
+<h2 id="teaching">Teaching</h2>
 
-{% include_relative _includes/projects.md %}
-
-<h2 id="patents">Patents</h2>
-
-<div class="patent-grid">
-  <article class="patent-card">
-    <h3>A Reasonable Adv Analysis Method for Source Camera Recognition</h3>
-    <p class="patent-id">CN112381149A</p>
-    <p><strong>Mengnan Zhao</strong>, Bo Wang</p>
-    <a href="https://www.xjishu.com/zhuanli/55/202011283607.html">View patent</a>
+<div class="teaching-list">
+  <article class="teaching-item">
+    <time>2026 Spring</time>
+    <strong>人工智能通识 I &amp; III</strong>
   </article>
-
-  <article class="patent-card">
-    <h3>An Source Identification Method Based on Adaptive Filtering and Coupled Encoding</h3>
-    <p class="patent-id">ZL201910871685.X; CN110659679</p>
-    <p><strong>Mengnan Zhao</strong>, Bo Wang</p>
-    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1p1q0050yk1c0cg06m4x0jp0p6065601&site=xueshu_se">View patent</a>
+  <article class="teaching-item">
+    <time>2026 Fall</time>
+    <strong>机器学习</strong>
   </article>
-
-  <article class="patent-card">
-    <h3>A Point Attack Method Based on Weighted Spectrum Generation of Adv Samples</h3>
-    <p class="patent-id">ZL201911050075.X; CN110866287B</p>
-    <p><strong>Mengnan Zhao</strong>, Bo Wang</p>
-    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=160n02v00u1q0mb0nd3j00c00u459303&site=xueshu_se">View patent</a>
-  </article>
-
-  <article class="patent-card">
-    <h3>A Defense Method Based on Deceptive Attackers to Adv Samples</h3>
-    <p class="patent-id">ZL201911050099.5; CN110852363B</p>
-    <p>Bo Wang (Ms. Tutor), <strong>Mengnan Zhao</strong></p>
-    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1u0u0ry0wu3308400t520eu0kw090862&site=xueshu_se">View patent</a>
-  </article>
-
-  <article class="patent-card">
-    <h3>A Targeted Adv Poisoning Attack Method for Shared Data Protection</h3>
-    <p class="patent-id">CN113821770A</p>
-    <p><strong>Mengnan Zhao</strong>, Bo Wang</p>
-    <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=133g0ja0h63s0jn0uv2h0vp0qx368771&site=xueshu_se">View patent</a>
+  <article class="teaching-item">
+    <time>2026 Fall</time>
+    <strong>计算机伦理</strong>
   </article>
 </div>
 
-## Research Journey
-
-<div class="journey-note">
-  <strong>2024 was a year of persistence and growth.</strong>
-  <span>Major acceptances, useful reviews, and hard rejections all became part of the same research path.</span>
-</div>
-
-
+## Honors
+- Member of the China Graphics Society’s Technical Committee on Animation and Graphics Engineering
+- Member of the CSIG Technical Committee on Forensics and Security
+- Member of IEEE, CCF, CSIG
+- **Senior Member of the China Graphics Society**
+- 2024 **China Association for Science and Technology Youth Talent PhD Program (Computer Society)**
+- 2025 **Outstanding Graduate of Liaoning Province**
+- 2025 National PhD Scholarship (China)
+- 2025 Outstanding Graduate of Dalian University of Technology
+- 2024 Dalian University of Technology PhD Individual Award (Academic Excellence)
+- 2024 Excellent Postgraduate Student of Dalian University of Technology
+- 2023 Excellent Postgraduate Student of Dalian University of Technology

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
 
 <head>
   <title>{{ site.title }}</title>
@@ -41,7 +41,18 @@
       <a class="image logo"><img src="{{ site.logo }}" alt="logo" /></a>
       {% endif %}
 
-      <h1>{{ site.title }}</h1>
+      {% assign current_lang = page.lang | default: 'en' %}
+      <div class="profile-title-row">
+        {% if current_lang == 'zh' %}
+        <h1>{{ site.chinese_name }}</h1>
+        {% else %}
+        <h1>{{ site.title }}</h1>
+        {% endif %}
+        <nav class="lang-switch" aria-label="Language switcher">
+          <a href="{{ '/zh.html' | relative_url }}" {% if current_lang == 'zh' %}class="active"{% endif %}>中文</a>
+          <a href="{{ '/' | relative_url }}" {% if current_lang != 'zh' %}class="active"{% endif %}>English</a>
+        </nav>
+      </div>
       {% if site.subtitle %}
       <h3>{{ site.subtitle }}</h3>
       {% endif %}
@@ -53,6 +64,12 @@
       {% if site.subposition %}
       <a href="{{ site.subposition_link }}" class="no-color" rel="noopener" target="_blank">
         <position style="font-size:0.95rem">{{ site.subposition }}</position>
+      </a>
+      <br>
+      {% endif %}
+      {% if site.profile_line %}
+      <a href="{{ site.affiliation_link }}" rel="noopener" target="_blank">
+        <autocolor class="profile-line">{{ site.profile_line }}</autocolor>
       </a>
       <br>
       {% endif %}
@@ -115,12 +132,19 @@
         {% endif %}
       </div>
       <nav class="site-nav" aria-label="Primary navigation">
-        <a href="{{ '/' | relative_url }}#about-me">About</a>
-        <a href="{{ '/' | relative_url }}#teaching">Teaching</a>
-        <a href="{{ '/' | relative_url }}#news-1st-author">News</a>
-        <a href="{{ '/' | relative_url }}#professional-service-selected">Service</a>
-        <a href="{{ '/' | relative_url }}#publications">Publications</a>
+        {% if current_lang == 'zh' %}
+        <a href="{{ '/zh.html' | relative_url }}">首页</a>
+        <a href="{{ '/publications.html' | relative_url }}">论文</a>
+        <a href="{{ '/projects.html' | relative_url }}">项目</a>
+        <a href="{{ '/patents.html' | relative_url }}">专利</a>
+        <a href="{{ '/students.html' | relative_url }}">学生</a>
+        {% else %}
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/publications.html' | relative_url }}">Publications</a>
+        <a href="{{ '/projects.html' | relative_url }}">Projects</a>
+        <a href="{{ '/patents.html' | relative_url }}">Patents</a>
         <a href="{{ '/students.html' | relative_url }}">Students</a>
+        {% endif %}
       </nav>
 
     </header>
