@@ -35,7 +35,7 @@ permalink: /pdf-to-word.html
 
 <script type="module">
 (() => {
-  const state = { file: null, pdf: null, pages: [], formulas: [], recognizer: null };
+  const state = { file: null, pdf: null, pages: [], formulas: [], recognizer: null, RawImage: null };
   const elements = {
     file: document.querySelector('#pdf-word-file'), quality: document.querySelector('#pdf-word-quality'), convert: document.querySelector('#pdf-word-convert'),
     progress: document.querySelector('#pdf-word-progress'), progressTitle: document.querySelector('#pdf-word-progress-title'), progressValue: document.querySelector('#pdf-word-progress-value'),
@@ -72,13 +72,18 @@ permalink: /pdf-to-word.html
     crop.getContext('2d', { alpha: false }).drawImage(canvas, minX, minY, crop.width, crop.height, 0, 0, crop.width, crop.height); return crop;
   }
   async function loadFormulaRecognizer() {
-    if (state.recognizer) return state.recognizer; progress('加载数学公式模型', 42, '首次使用需要下载 TexTeller 模型，之后会由浏览器缓存。');
-    const { pipeline, env } = await import('https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.7.2/+esm'); env.allowLocalModels = false; const useWebGpu = Boolean(navigator.gpu);
-    state.recognizer = await pipeline('image-to-text', 'Ji-Ha/TexTeller3-ONNX-dynamic', { device: useWebGpu ? 'webgpu' : 'wasm', dtype: useWebGpu ? 'fp16' : 'int8' }); return state.recognizer;
+    if (state.recognizer) return state.recognizer; progress('加载数学公式模型', 42, '首次使用需要下载公式 OCR 模型，之后会由浏览器缓存。');
+    const { pipeline, env, RawImage } = await import('https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.7.2/+esm'); env.allowLocalModels = false; state.RawImage = RawImage;
+    let lastError; for (let attempt = 1; attempt <= 3; attempt++) { try { state.recognizer = await pipeline('image-to-text', 'onnx-community/TexTeller3-ONNX', { device: 'wasm', dtype: 'q4' }); return state.recognizer; } catch (error) { lastError = error; progress('重试加载公式模型', 42, `网络下载中断，正在进行第 ${attempt + 1} 次尝试...`); await new Promise((resolve) => setTimeout(resolve, 1200 * attempt)); } } throw lastError;
   }
   function cleanLatex(value) { return (value || '').replace(/^\s*\$+|\$+\s*$/g, '').replace(/^\\\[|\\\]$/g, '').replace(/\s+/g, ' ').trim(); }
+  function toGrayscaleImage(canvas) {
+    const rgba = canvas.getContext('2d').getImageData(0, 0, canvas.width, canvas.height).data; const gray = new Uint8ClampedArray(canvas.width * canvas.height);
+    for (let source = 0, target = 0; source < rgba.length; source += 4, target++) gray[target] = Math.round(rgba[source] * .299 + rgba[source + 1] * .587 + rgba[source + 2] * .114);
+    return new state.RawImage(gray, canvas.width, canvas.height, 1);
+  }
   async function recognizeFormula(canvas, pageNumber) {
-    const recognizer = await loadFormulaRecognizer(); const result = await recognizer(canvas, { max_new_tokens: 384 }); const latex = cleanLatex(result?.[0]?.generated_text || result?.generated_text || '');
+    const recognizer = await loadFormulaRecognizer(); const result = await recognizer(toGrayscaleImage(canvas), { max_new_tokens: 384 }); const latex = cleanLatex(result?.[0]?.generated_text || result?.generated_text || '');
     if (!latex) return null; const formula = { latex, pageNumber }; state.formulas.push(formula); return formula;
   }
   async function ocrScannedPage(canvas) {
